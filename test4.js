@@ -15,6 +15,9 @@ const saltRounds = 10;
 
 dotenv.config();
 
+const a = 10;
+a = 11;
+
 /**
  * returns status code with success response
  *
