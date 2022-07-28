@@ -7,6 +7,8 @@ const { environment } = require('../config/index');
 const path = require('path');
 const Logger = require('./logger');
 
+const a = 10;
+
 /**
  * returns the IP address of the server instance
  *
